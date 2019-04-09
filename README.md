@@ -21,6 +21,7 @@ In order to be in this awesome list, each product needs to have all of the follo
 - [Parabola](https://parabola.io)
 - [Skyvia](https://skyvia.com)
 - [Flatly](https://flatly.io/) 
+- [Blendo](https://www.blendo.co) 
 
 ## Mobile App Centric
 - [Thunkable](https://thunkable.com/)
