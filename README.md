@@ -4,6 +4,12 @@ Collection of awesome products that require no coding but are able to accomplish
 
 Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contribute.
 
+### Requirements
+In order to be in this awesome list, each product needs to have all of the following requirements: 
+- Not require any coding or command lines to use
+- Must accomplish a tasks that are typically accomplished by custom software written by developers
+- Must be instantly usable, not just be a landing page target enterprise users. 
+
 ## Database / Spreadsheet Centric
 - [Airtable](https://airtable.com)
 - [QuickBase](https://www.quickbase.com/) 
@@ -23,6 +29,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Bubble](https://bubble.is/)
 - [Carrd](https://carrd.co/) 
 - [TryRetool](https://tryretool.com/)
+
+## Landing Pages
+- [InstaPage](https://instapage.com)
 
 ## Forms 
 - [Typeform](https://typeform.com)
