@@ -7,10 +7,14 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ## Database / Spreadsheet Centric
 - [Airtable](https://airtable.com)
 - [QuickBase](https://www.quickbase.com/) 
+- [Coda](https://coda.io/) 
+- [ActionDesk](https://www.actiondesk.io/)
 
 
 ## ETL
 - [Parabola](https://parabola.io)
+- [Skyvia](https://skyvia.com)
+- [Flatly](https://flatly.io/) 
 
 ## Mobile App Centric
 - [Thunkable](https://thunkable.com/)
