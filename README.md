@@ -27,8 +27,9 @@ In order to be in this awesome list, each product needs to have all of the follo
 ## ETL
 - [Parabola](https://parabola.io)
 
-## Data Migration (ETL without the Transform) 
+## Data Automation / Migration (ETL without the Transform) 
 - [Zapier](https://zapier.com/)
+- [PhantomBuster](https://phantombuster.com)
 - [Blendo](https://www.blendo.co) 
 - [Flatly](https://flatly.io/) 
 
