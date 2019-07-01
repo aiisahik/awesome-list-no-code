@@ -21,20 +21,18 @@ In order to be in this awesome list, each product needs to have all of the follo
 - [Glide](https://www.glideapps.com)
 - [SheetGo](https://www.sheetgo.com/)
 
-## Non-Relational Data Storage
-- [panoply] (https://panoply.io)
-
 ## ETL
 - [Parabola](https://parabola.io)
+- [Tray](https://tray.io/)
 
 ## Data Scraping 
 - [Spider](https://spider.amie-chen.com) 
-- 
 
 ## Data Automation / Migration (ETL without the Transform) 
 - [Zapier](https://zapier.com/)
 - [PhantomBuster](https://phantombuster.com)
 - [Blendo](https://www.blendo.co) 
+- [panoply] (https://panoply.io)
 - [Flatly](https://flatly.io/) 
 
 ## Mobile App Centric
