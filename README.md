@@ -33,6 +33,7 @@ In order to be in this awesome list, each product needs to have all of the follo
 - [PhantomBuster](https://phantombuster.com)
 - [Blendo](https://www.blendo.co) 
 - [panoply] (https://panoply.io)
+- [Linx] (https://linx.software)
 - [Flatly](https://flatly.io/) 
 
 ## Mobile App Centric
