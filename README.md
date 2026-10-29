@@ -45,6 +45,7 @@ In order to be in this awesome list, each product needs to have all of the follo
 - [Bubble](https://bubble.is/)
 - [Carrd](https://carrd.co/) 
 - [TryRetool](https://tryretool.com/)
+- [AppWizzy](https://appwizzy.com/)
 
 ## Landing Pages
 - [InstaPage](https://instapage.com)
